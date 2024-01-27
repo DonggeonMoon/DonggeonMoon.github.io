@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "개발 노트"
+title: "dgmoonlabs"
 description: > # this means to ignore newlines until "email:"
-   공부한 내용을 다시 한번 정리합니다.
+   dgmoonlabs
 
 email:
 #blog logo
